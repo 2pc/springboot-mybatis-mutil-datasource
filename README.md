@@ -1,7 +1,7 @@
 # springboot-mybatis-mutil-datasource
 
 ## 注意
-### 其中一个datasource主街@Primary
+### 其中一个datasource注解@Primary
 
 ### 基于@MapperScan(basePackages ="")
 
